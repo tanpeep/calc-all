@@ -1,8 +1,3 @@
----
-title: 'calc-all'
-disqus: hackmd
----
-
 calc-all
 ===
 
